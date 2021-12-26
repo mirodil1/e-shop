@@ -3,13 +3,6 @@
 ## Technologies
 * Used technologies in the project
 * asgiref==3.4.1
-* certifi==2021.5.30
-* cffi==1.14.6
-* charset-normalizer==2.0.6
-* coreapi==2.3.3
-* coreschema==0.0.4
-* cryptography==3.4.8
-* defusedxml==0.7.1
 * Django==3.2.7
 * django-cors-headers==3.8.0
 * django-rest-framework==0.1.0
@@ -23,7 +16,6 @@
 * python3-openid==3.2.0
 * pytz==2021.1
 * requests==2.26.0
-* requests-oauthlib==1.3.0
 * six==1.16.0
 * sqlparse==0.4.2
 * uritemplate==3.0.1
